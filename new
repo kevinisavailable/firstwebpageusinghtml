@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>New Website</title>
+</head>
+<body background="https://images.unsplash.com/photo-1550684376-efcbd6e3f031?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjBncmFkaWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60">
+  <h3 style="color: white;" align="left">
+  	<font face="Monospace" size="6">LOGO</font>
+  </h3>
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 align="center">
+  	<font face="Courier">
+  		<a href="#" style="color: seashell;">Home</a>
+  		<a href="#" style="color:snow;">Videos</a>
+  		<a href="#" style="color: seashell;">Portfolio</a>
+  		<a href="#" style="color: snow;">Blog</a>
+  		<a href="#" style="color: seashell;">Contact Us</a>
+  	</font>
+  	</h2>
+  	<br><br><br><br><br><br><br><br>
+  <h1 align="center" style="color:honeydew;">
+  	<font face="Monospace">Welcome to my first page</font>
+  	<p align="center">
+  	<font face="Helvetica" size="3px">Made using HTML only</font> 
+  	</p>
+  </h1>
+  <h4 align="center" style="color: white;">
+  	<font face = "Monospace" size="5px"> 
+<button>Click here for fun</button>
+  	</font>
+  </h4>
+</body>
+</html>
